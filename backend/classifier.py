@@ -108,7 +108,7 @@ def _keyword_detect(query: str) -> Dict[str, Optional[str]]:
 
 def _llm_detect(query: str) -> Dict[str, Optional[str]]:
     """Only called when keyword detection finds nothing at all."""
-    key = os.getenv("GROQ_API_KEY", "")
+    key = "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"
     if not key:
         return {"department": None, "policy_type": None}
     try:
