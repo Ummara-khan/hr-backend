@@ -10,7 +10,7 @@ from contextlib import asynccontextmanager
 from dotenv import load_dotenv
 
 THIS_DIR = Path(__file__).parent.resolve()
-load_dotenv(THIS_DIR / ".env")
+load_dotenv()
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
