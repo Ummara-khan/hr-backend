@@ -6,33 +6,41 @@ echo "========================================"
 echo "  Company Policy Chatbot - Backend"
 echo "========================================"
 
-# Load .env if it exists (for local development)
+# Load .env for local development only
 if [ -f backend/.env ]; then
     echo "📄 Loading backend/.env..."
-    export $(grep -v '^#' backend/.env | xargs)
+    set -a
+    source backend/.env
+    set +a
 else
-    echo "ℹ️ No backend/.env found. Using environment variables from the hosting platform."
+    echo "ℹ️ No backend/.env found."
+    echo "ℹ️ Assuming environment variables are provided by Railway."
 fi
 
-# Check that GROQ_API_KEY exists
-if [ -z "$GROQ_API_KEY" ]; then
-    echo ""
-    echo "❌ GROQ_API_KEY is not set!"
-    echo "Add it as an environment variable in your hosting platform."
-    exit 1
+echo ""
+echo "===== Environment Check ====="
+
+if [ -n "$GROQ_API_KEY" ]; then
+    echo "✅ GROQ_API_KEY is available"
+else
+    echo "⚠️ GROQ_API_KEY is NOT available"
 fi
 
-echo "✅ GROQ_API_KEY found."
+echo "PORT=${PORT:-8000}"
+echo "============================="
+echo ""
 
 cd backend
 
 # Create virtual environment if needed
 if [ ! -d "venv" ]; then
+    echo "Creating virtual environment..."
     python3 -m venv venv
 fi
 
 source venv/bin/activate
 
+echo "Installing requirements..."
 pip install -r requirements.txt
 
 echo ""
