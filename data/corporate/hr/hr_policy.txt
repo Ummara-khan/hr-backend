@@ -1,0 +1,53 @@
+================================================================================
+  CORPORATE DEPARTMENT — HUMAN RESOURCES POLICY
+  Document No.: CORP-HR-001 | Version: 3.2 | Effective: January 1, 2024
+================================================================================
+
+1. WORKING HOURS & FLEXIBLE WORK
+   1.1  Standard hours: 09:00 – 18:00, Monday to Friday.
+   1.2  Core hours (mandatory presence): 10:00 – 16:00.
+   1.3  Flex start: 08:00 – 10:00 (adjust end time accordingly).
+   1.4  Work from Home (WFH): Up to 2 days/week for Grade 3 and above with manager approval.
+   1.5  WFH conditions: VPN connected, available on Teams during core hours, professional background for video calls.
+
+2. CORPORATE GRADE STRUCTURE & COMPENSATION
+   ┌───────┬──────────────────────────────────┬─────────────────────────────────────────┐
+   │ Grade │ Roles                            │ Key Benefits                            │
+   ├───────┼──────────────────────────────────┼─────────────────────────────────────────┤
+   │  1    │ Assistant / Junior Officer        │ Base salary, medical, leave             │
+   │  2    │ Officer / Executive               │ Grade 1 + mobile PKR 2,500/month        │
+   │  3    │ Senior Officer / Asst. Manager    │ Grade 2 + WFH eligible                  │
+   │  4    │ Manager / Deputy Manager          │ Grade 3 + car allowance PKR 30,000/month│
+   │  5    │ Senior Manager / General Manager  │ Grade 4 + fuel + driver + PKR 80,000 CA │
+   │  6    │ Director / C-Suite                │ Grade 5 + executive perks + Board access│
+   └───────┴──────────────────────────────────┴─────────────────────────────────────────┘
+
+3. TRAVEL POLICY
+   3.1  All travel requires pre-approval on Form CORP-HR-T-01 (available on HR portal).
+   3.2  Per diem rates:
+        • Domestic travel:        PKR 5,000 per day
+        • International (Asia):   USD 120 per day
+        • International (Europe/US): USD 180 per day
+   3.3  Air travel:
+        Grade 1–3: Economy class
+        Grade 4+:  Business class for flights over 4 hours
+   3.4  Hotel bookings: Must be made through company travel desk (traveldesk@company.com).
+   3.5  Expense reports must be submitted within 5 working days of return with all original receipts.
+
+4. KEY CONTACTS — CORPORATE HR
+   ┌────────────────────────────────┬──────────────────┬────────────────────────────────┐
+   │ Role                           │ Phone            │ Email                          │
+   ├────────────────────────────────┼──────────────────┼────────────────────────────────┤
+   │ HR Director                    │ +92-21-3456-7001 │ hrd@company.com                │
+   │ HR Manager – Corporate         │ +92-21-3456-7002 │ hr.corporate@company.com       │
+   │ Payroll Manager                │ +92-21-3456-7003 │ payroll.corp@company.com       │
+   │ Recruitment Lead               │ +92-21-3456-7004 │ recruit.corp@company.com       │
+   │ L&D Manager                    │ +92-21-3456-7005 │ ld@company.com                 │
+   │ Travel Desk                    │ Ext. 150         │ traveldesk@company.com         │
+   │ Employee Helpline (24/7)       │ 0800-12345       │ helpline@company.com           │
+   │ CEO Office                     │ +92-21-3456-7000 │ ceo.office@company.com         │
+   └────────────────────────────────┴──────────────────┴────────────────────────────────┘
+
+================================================================================
+  CONFIDENTIAL. HR Dept, Corporate Division. Doc No. CORP-HR-001 v3.2 (2024)
+================================================================================

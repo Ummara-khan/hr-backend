@@ -1,0 +1,39 @@
+================================================================================
+  DENIM DEPARTMENT — LEAVE POLICY
+  Document No.: DNM-LV-001 | Version: 2.2 | Effective: January 1, 2024
+================================================================================
+
+1. LEAVE SUMMARY
+   ┌──────────────────────────┬──────────┬─────────────────────────────────┐
+   │ Leave Type               │ Days/Yr  │ Notes                           │
+   ├──────────────────────────┼──────────┼─────────────────────────────────┤
+   │ Casual Leave             │    14    │ Cannot carry forward             │
+   │ Sick Leave               │    10    │ Unlimited for chemical illness   │
+   │ Earned Leave             │    18    │ Accrues after 1 yr              │
+   │ Hazardous Duty Leave     │     4    │ Extra 1 day/quarter for chem.   │
+   │ Maternity Leave          │    84    │ 12 weeks paid                   │
+   │ Paternity Leave          │     7    │ Within 30 days of birth         │
+   │ Bereavement (Spouse)     │     5    │                                 │
+   │ Bereavement (Parent)     │     3    │                                 │
+   │ Bereavement (In-laws)    │     2    │                                 │
+   │ Hajj Leave (once)        │    30    │ Unpaid                          │
+   └──────────────────────────┴──────────┴─────────────────────────────────┘
+
+2. HAZARDOUS DUTY LEAVE (DENIM-SPECIFIC)
+   2.1  Employees working in sandblasting, laser, or heavy chemical areas earn 1 additional leave day per quarter.
+   2.2  Total: 4 extra hazard leave days per year.
+   2.3  Hazard leave must be taken within the same quarter; it is NOT encashable and does NOT carry forward.
+
+3. SICK LEAVE — SPECIAL PROVISION
+   3.1  For chemical-related occupational illness: sick leave is unlimited pending medical specialist review.
+   3.2  First 3 months at full pay; next 3 months at 50% pay.
+   3.3  Employee must submit specialist medical report to HR every 4 weeks during extended sick leave.
+
+4. LEAVE APPLICATION CONTACTS
+   HR System email: denim.hr@company.com
+   HR Extension:    Ext. 203
+   HR Office:       Room 8, Admin Block, Denim Division
+
+================================================================================
+  CONFIDENTIAL. HR Dept, Denim Division. Doc No. DNM-LV-001 v2.2 (2024)
+================================================================================

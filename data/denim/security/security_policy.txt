@@ -1,0 +1,44 @@
+================================================================================
+  DENIM DEPARTMENT — SECURITY POLICY
+  Document No.: DNM-SEC-001 | Version: 1.6 | Effective: January 1, 2024
+================================================================================
+
+1. CHEMICAL STORE ACCESS
+   1.1  Chemical stores accessible only to Grade B and above with valid chemical certification.
+   1.2  Daily stock reconciliation mandatory; discrepancies reported to Security within 1 hour.
+   1.3  Double-locked and alarm-armed during night hours.
+   1.4  100% CCTV coverage in chemical storage and dispensing areas; footage retained 60 days.
+
+2. ZONE ACCESS BADGES
+   Red Zone:    Chemical mixing area — Grade B+, hazmat certified only
+   Blue Zone:   Laser room — trained laser operators only
+   Yellow Zone: Washing area — Grade B and above
+   White Zone:  General production & admin
+
+3. PROHIBITED ACTIONS — DENIM SPECIFIC
+   3.1  Tampering with chemical measurements or labels → Immediate termination
+   3.2  Using mobile phone in chemical areas → Written warning
+   3.3  Removing wash recipes or formula sheets from premises → Final warning / FIR
+   3.4  Smoking within 50 metres of chemical storage → Final warning
+
+4. HOT WORK PERMIT
+   Any welding, grinding, or cutting work near chemical areas requires:
+   (a) Written Hot Work Permit from Safety Officer
+   (b) Fire watch personnel on standby
+   (c) Chemical stores secured and ventilated before work begins
+   Hot Work Permit form: DNM-SEC-HWP-01
+
+5. EMERGENCY CONTACTS — DENIM SECURITY
+   ┌──────────────────────────────┬──────────────────┬───────────────┐
+   │ Service                      │ Number           │ Available     │
+   ├──────────────────────────────┼──────────────────┼───────────────┤
+   │ Security Desk – Denim Gate   │ Ext. 200         │ 24 / 7        │
+   │ EHS Emergency                │ +92-333-9876543  │ 24 / 7        │
+   │ Chemical Spill Hotline       │ Ext. 510         │ 24 / 7        │
+   │ Fire Brigade                 │ 16               │ 24 / 7        │
+   │ Police                       │ 15               │ 24 / 7        │
+   └──────────────────────────────┴──────────────────┴───────────────┘
+
+================================================================================
+  CONFIDENTIAL. HR Dept, Denim Division. Doc No. DNM-SEC-001 v1.6 (2024)
+================================================================================

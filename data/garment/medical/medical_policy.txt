@@ -1,0 +1,75 @@
+================================================================================
+  GARMENT DEPARTMENT — MEDICAL & HEALTH POLICY
+  Document No.: GRM-MED-001 | Version: 3.1 | Effective: January 1, 2024
+================================================================================
+
+1. MEDICAL COVERAGE LIMITS
+   ┌─────────────────────────────────────┬─────────────────────┐
+   │ Category                            │ Annual Limit (PKR)  │
+   ├─────────────────────────────────────┼─────────────────────┤
+   │ Employee (Inpatient)                │ 150,000             │
+   │ Spouse                              │  75,000             │
+   │ Each Child (max 2)                  │  50,000             │
+   │ Maternity (per delivery, max 2)     │  50,000             │
+   │ Dental (Employee)                   │  15,000             │
+   │ Optical (Employee)                  │   8,000             │
+   └─────────────────────────────────────┴─────────────────────┘
+
+2. PANEL HOSPITALS & CLINICS
+   2.1  Karachi
+        (a) City Hospital                 — 021-3580-1234
+        (b) Al-Khidmat Medical Centre     — 021-3480-5678
+        (c) Aga Khan University Hospital  — 021-3486-4527
+        (d) South City Hospital           — 021-3431-0000
+   2.2  Lahore
+        (a) Shaukat Khanum Cancer Centre  — 042-3590-5000
+        (b) Doctors Hospital              — 042-3591-0000
+   2.3  Islamabad
+        (a) Shifa International Hospital  — 051-846-3000
+   2.4  Approved Dental Clinics
+        • SmilePlus Dental Care           — 021-3542-2222
+        • DentaCare Clinics               — 021-3512-3456
+
+3. REIMBURSEMENT PROCESS
+   3.1  Claims must be submitted within 30 days of treatment date.
+   3.2  Required documents (ALL must be original):
+        (a) Completed Reimbursement Form GRM-MED-01 (available from HR)
+        (b) Doctor's prescription / referral letter
+        (c) All original receipts (pharmacy, lab, hospital)
+        (d) Lab / radiology reports (where applicable)
+        (e) Discharge summary for inpatient claims
+   3.3  Processing timelines:
+        • Standard claims (< PKR 20,000): 15 working days
+        • Large claims (≥ PKR 20,000): requires HR Manager approval; 20 working days
+        • Emergency / occupational claims: 7 working days
+   3.4  Payment credited directly to employee's registered bank account.
+   3.5  Incomplete submissions are returned within 5 working days with a deficiency list.
+
+4. SICK LEAVE PROCEDURE
+   4.1  Notify line supervisor within the first hour of shift.
+   4.2  Medical certificate required for > 2 consecutive sick days.
+   4.3  > 10 sick days in a calendar year triggers mandatory HR review meeting.
+
+5. EMERGENCY CONTACTS — MEDICAL
+   ┌──────────────────────────────┬──────────────────┬───────────────┐
+   │ Service                      │ Number           │ Available     │
+   ├──────────────────────────────┼──────────────────┼───────────────┤
+   │ Company Doctor (On-site)     │ Ext. 300         │ 08:00 – 18:00 │
+   │ First Aid Room               │ Ext. 301         │ 24 / 7        │
+   │ Ambulance (Company)          │ +92-21-3456-7999 │ 24 / 7        │
+   │ Emergency (Edhi)             │ 115              │ 24 / 7        │
+   │ Rescue 1122                  │ 1122             │ 24 / 7        │
+   │ Aga Khan Hospital ER         │ 021-3486-4545    │ 24 / 7        │
+   │ Medical HR Officer           │ +92-21-3456-7012 │ 09:00 – 17:00 │
+   └──────────────────────────────┴──────────────────┴───────────────┘
+
+6. EXCLUSIONS
+   6.1  Cosmetic or elective procedures (unless medically certified as necessary)
+   6.2  Self-inflicted injuries
+   6.3  Treatment outside Pakistan without prior written company approval
+   6.4  Experimental treatments not approved by PMDC
+   6.5  Outpatient psychiatric treatment beyond 6 approved sessions per year
+
+================================================================================
+  CONFIDENTIAL. HR Dept, Garment Division. Doc No. GRM-MED-001 v3.1 (2024)
+================================================================================

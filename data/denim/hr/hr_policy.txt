@@ -1,0 +1,44 @@
+================================================================================
+  DENIM DEPARTMENT — HUMAN RESOURCES POLICY
+  Document No.: DNM-HR-001 | Version: 2.1 | Effective: January 1, 2024
+================================================================================
+
+1. WORKING HOURS & SHIFTS
+   1.1  Shift A (Washing & Finishing):  07:00 – 16:00
+   1.2  Shift B (Chemical Processing): 16:00 – 00:00
+   1.3  Overtime: 1.5× hourly for first 2 hours; 2.0× beyond 2 hours.
+   1.4  Maximum overtime: 12 hours/week, 48 hours/month.
+
+2. GRADING STRUCTURE
+   Grade A — Master Washer, Laser Operator, Senior QC Inspector
+   Grade B — Machine Operator, Dyer, Fabric Cutter
+   Grade C — Helper, Ironing Operator, Packing Staff
+
+   Skill premiums (monthly, in addition to basic salary):
+   • Laser operation:    PKR 5,000
+   • Chemical mixing:    PKR 4,000
+   • QC Inspection:      PKR 3,000
+   • General skill:      PKR 2,000
+
+3. CHEMICAL SAFETY TRAINING (MANDATORY)
+   3.1  All chemical-handling employees must complete:
+        (a) Hazmat Handling Certification — 16 hours (on joining)
+        (b) MSDS (Material Safety Data Sheet) Workshop — 4 hours (every 6 months)
+        (c) Respiratory Protection Training — 8 hours (sandblasting & laser staff only)
+   3.2  Employees CANNOT operate chemical stations until 2-week supervised training is completed and signed off by the Safety Officer.
+   3.3  Training records maintained in personnel file and available to employee on request.
+
+4. KEY CONTACTS — DENIM HR
+   ┌────────────────────────────┬──────────────────┬──────────────────────────────┐
+   │ Role                       │ Phone            │ Email                        │
+   ├────────────────────────────┼──────────────────┼──────────────────────────────┤
+   │ HR Manager – Denim         │ +92-21-3456-7020 │ hr.denim@company.com         │
+   │ Safety Officer (EHS)       │ +92-21-3456-7021 │ ehs@company.com              │
+   │ Chemical Store In-charge   │ Ext. 400         │ chemstore@company.com        │
+   │ Training Coordinator       │ Ext. 401         │ training@company.com         │
+   │ Employee Helpline (24/7)   │ 0800-12345       │ helpline@company.com         │
+   └────────────────────────────┴──────────────────┴──────────────────────────────┘
+
+================================================================================
+  CONFIDENTIAL. HR Dept, Denim Division. Doc No. DNM-HR-001 v2.1 (2024)
+================================================================================

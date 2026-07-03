@@ -1,0 +1,52 @@
+================================================================================
+  CORPORATE DEPARTMENT — LEAVE POLICY
+  Document No.: CORP-LV-001 | Version: 3.1 | Effective: January 1, 2024
+================================================================================
+
+1. LEAVE ENTITLEMENT BY GRADE
+   ┌────────────────────┬─────────────┬─────────────────────────────────────────────┐
+   │ Leave Type         │ Days / Year │ Grade-specific variation                    │
+   ├────────────────────┼─────────────┼─────────────────────────────────────────────┤
+   │ Casual Leave       │  14 – 21    │ Grade 1–3: 14 | Grade 4–5: 18 | Grade 6: 21│
+   │ Earned Leave       │  18 – 25    │ 0–2 yrs: 18 | 3–5 yrs: 21 | 6+ yrs: 25    │
+   │ Sick Leave         │     12      │ All grades; up to 6 months extended (serious)│
+   │ Maternity Leave    │  84 – 112   │ Standard: 84 days | Corporate: 112 days     │
+   │ Paternity Leave    │     14      │ Corporate-enhanced (vs standard 7 days)      │
+   │ Study / Exam Leave │     10      │ Paid if company-sponsored course            │
+   │ Sabbatical         │     90      │ Unpaid; after 7 years of service; once      │
+   │ Bereavement        │   3 – 7     │ Spouse/Child: 7 | Parent/Sibling: 5 | Other: 3│
+   │ Hajj Leave         │     30      │ Unpaid; apply 3 months in advance           │
+   └────────────────────┴─────────────┴─────────────────────────────────────────────┘
+
+2. MATERNITY LEAVE — CORPORATE ENHANCED
+   2.1  Corporate female employees receive 16 weeks (112 days) paid maternity leave.
+   2.2  Maternity medical expenses covered up to PKR 75,000 per delivery.
+   2.3  Maximum 3 maternity benefits during entire employment.
+   2.4  Flexible return-to-work: Part-time for first 3 months post-return (with approval).
+   2.5  On-site creche available at Head Office for children aged 3 months to 3 years.
+
+3. SABBATICAL POLICY
+   3.1  Available to employees with 7+ years of continuous service.
+   3.2  Duration: Up to 3 months (90 days) unpaid leave.
+   3.3  May only be used once in entire service.
+   3.4  Purpose must be declared: travel, personal development, academic, or volunteer work.
+   3.5  Health insurance coverage continues during sabbatical; all other benefits suspended.
+   3.6  Job reinstatement at same grade guaranteed on return (subject to business needs).
+   3.7  Application: Submit to HR Director at least 3 months in advance.
+
+4. LEAVE WITHOUT PAY — APPROVAL MATRIX
+   Duration            Approved By
+   Up to 7 days        Line Manager
+   8 – 30 days         Department Head
+   31 – 60 days        HR Director
+   61 – 90 days        CEO
+   Beyond 90 days      Board HR Committee
+
+5. LEAVE HR CONTACTS — CORPORATE
+   HR Portal:        hr.portal.company.com
+   HR Manager:       +92-21-3456-7002 | hr.corporate@company.com
+   Payroll Queries:  +92-21-3456-7003 | payroll.corp@company.com
+
+================================================================================
+  CONFIDENTIAL. HR Dept, Corporate Division. Doc No. CORP-LV-001 v3.1 (2024)
+================================================================================

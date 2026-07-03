@@ -1,0 +1,98 @@
+{
+  "garment__hr__hr_policy.pdf": {
+    "hash": "109fba7dabb3a321a9deec14c5ba2b38",
+    "chunks": 5
+  },
+  "garment__hr__hr_policy.txt": {
+    "hash": "b8de7a0a8c57db338dfb2e88e0c15e00",
+    "chunks": 10
+  },
+  "garment__medical__medical_policy.pdf": {
+    "hash": "dcf562da858290c5a3c2ced2e90fc595",
+    "chunks": 5
+  },
+  "garment__medical__medical_policy.txt": {
+    "hash": "dc1f3469ff261089102da6c48709d8fe",
+    "chunks": 9
+  },
+  "garment__leave__leave_policy.pdf": {
+    "hash": "961b886263b8278164352ebf7a391a52",
+    "chunks": 8
+  },
+  "garment__leave__leave_policy.txt": {
+    "hash": "515199736c397be922bc13b3a55a05b6",
+    "chunks": 9
+  },
+  "garment__security__security_policy.pdf": {
+    "hash": "94b27e78d9c04dc8667527bebdf3cca6",
+    "chunks": 7
+  },
+  "garment__security__security_policy.txt": {
+    "hash": "7247b9c4149998e61768838d17739641",
+    "chunks": 9
+  },
+  "denim__hr__hr_policy.pdf": {
+    "hash": "4e2f3172a022e5649cbd83137bd09a92",
+    "chunks": 5
+  },
+  "denim__hr__hr_policy.txt": {
+    "hash": "6e0040b8f3fe0462a4a6eda1e509697d",
+    "chunks": 5
+  },
+  "denim__medical__medical_policy.pdf": {
+    "hash": "521af9eef4d7a6f1b11cae4fa9b41138",
+    "chunks": 5
+  },
+  "denim__medical__medical_policy.txt": {
+    "hash": "9cb16fb4dafdbd2cbd49aa7b29351adf",
+    "chunks": 6
+  },
+  "denim__leave__leave_policy.pdf": {
+    "hash": "fb9a18befdd0a357f2c945a37c0759c7",
+    "chunks": 5
+  },
+  "denim__leave__leave_policy.txt": {
+    "hash": "dc341ad9fc527ffc5af0cb830892dfa5",
+    "chunks": 5
+  },
+  "denim__security__security_policy.pdf": {
+    "hash": "4e5501a23027a244fde3852d0f0ee7e2",
+    "chunks": 3
+  },
+  "denim__security__security_policy.txt": {
+    "hash": "eec0279cee375f8dae2d01a4654f8947",
+    "chunks": 5
+  },
+  "corporate__hr__hr_policy.pdf": {
+    "hash": "d41eaa1b6e6ff2d4efbc7271c8fb4332",
+    "chunks": 8
+  },
+  "corporate__hr__hr_policy.txt": {
+    "hash": "1b4ee06d4f6409201373e36c92d1b958",
+    "chunks": 8
+  },
+  "corporate__medical__medical_policy.pdf": {
+    "hash": "736fbd8e14795fc8a1e4932b0d46bfab",
+    "chunks": 6
+  },
+  "corporate__medical__medical_policy.txt": {
+    "hash": "63cb9f5929087552ee4177e7342856bb",
+    "chunks": 6
+  },
+  "corporate__leave__leave_policy.pdf": {
+    "hash": "9a9d1b72cbb4988d2a9bf5598284878c",
+    "chunks": 6
+  },
+  "corporate__leave__leave_policy.txt": {
+    "hash": "6eeb9135db7d960d1e97dc729ffae7f5",
+    "chunks": 7
+  },
+  "corporate__security__security_policy.pdf": {
+    "hash": "d8e6b275cc69f35a306b0fc65266baae",
+    "chunks": 9
+  },
+  "corporate__security__security_policy.txt": {
+    "hash": "fcb6a2f74baeb683998accb9f7960169",
+    "chunks": 7
+  }
+}

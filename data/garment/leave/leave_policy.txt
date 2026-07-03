@@ -1,0 +1,69 @@
+================================================================================
+  GARMENT DEPARTMENT — LEAVE POLICY
+  Document No.: GRM-LV-001 | Version: 2.5 | Effective: January 1, 2024
+================================================================================
+
+1. LEAVE ENTITLEMENT SUMMARY
+   ┌────────────────────────┬──────────┬────────────────────────────────────────┐
+   │ Leave Type             │ Days/Yr  │ Notes                                  │
+   ├────────────────────────┼──────────┼────────────────────────────────────────┤
+   │ Casual Leave           │    14    │ Cannot carry forward; up to 7 encashable│
+   │ Sick Leave             │    10    │ Medical cert needed after day 2         │
+   │ Earned / Annual Leave  │    18    │ Accrues after 1 year; max 30-day hold   │
+   │ Maternity Leave        │    84    │ 12 weeks paid; max 2 in service         │
+   │ Paternity Leave        │     7    │ Within 30 days of birth                 │
+   │ Bereavement (Spouse)   │     5    │ Death certificate required              │
+   │ Bereavement (Parent)   │     3    │ Death certificate required              │
+   │ Hajj Leave (once)      │    30    │ Unpaid; apply 2 months in advance       │
+   │ Study / Exam Leave     │     5    │ Enrolment proof required                │
+   └────────────────────────┴──────────┴────────────────────────────────────────┘
+
+2. CASUAL LEAVE
+   2.1  14 days credited on January 1 each year (pro-rated for new joiners at 1.17 days/month).
+   2.2  Maximum 3 consecutive casual days without department head approval.
+   2.3  Unused balance LAPSES on December 31; cannot be carried forward.
+   2.4  Encashment: Up to 7 unused days may be encashed at year-end at daily basic rate.
+
+3. EARNED / ANNUAL LEAVE
+   3.1  Accrual: 1.5 days per completed calendar month of service (18 days per year).
+   3.2  Eligibility: After completing 12 months of continuous service.
+   3.3  Application: Minimum 15 days advance notice required.
+   3.4  Minimum usage: At least 10 consecutive days must be taken per year.
+   3.5  Maximum accumulation: 30 days; any balance above 30 lapses at year-end.
+   3.6  Encashment: Full balance encashable at resignation, retirement, or death.
+
+4. MATERNITY & PATERNITY LEAVE
+   4.1  Maternity: 84 days (12 weeks) paid leave.
+        • May commence 4 weeks before expected delivery date.
+        • Available after completing 6 months of continuous service.
+        • Maximum 2 maternity benefits in entire employment.
+   4.2  Paternity: 7 days paid leave.
+        • Must be taken within 30 days of child's birth.
+        • Maximum 2 times during employment.
+        • Proof required: Birth certificate or hospital document.
+   4.3  Nursing mothers: 2 × 30-minute nursing breaks per shift for 6 months post-delivery.
+
+5. PUBLIC HOLIDAYS (2024)
+   5.1  The following gazetted holidays are observed:
+        No.  Holiday                          Date(s)
+        1    Kashmir Day                      February 5
+        2    Pakistan Day                     March 23
+        3    Labour Day                       May 1
+        4    Eid ul Fitr                      3 days (as per moon sighting)
+        5    Independence Day                 August 14
+        6    Eid ul Adha                      3 days (as per moon sighting)
+        7    Ashura                           2 days (as per moon sighting)
+        8    Eid Milad un Nabi               1 day (as per moon sighting)
+        9    Quaid-e-Azam Day                December 25
+        10   Christmas                        December 25 (for Christian employees)
+   5.2  If production requirements mandate work on a public holiday, compensation = double pay + 1 substitute holiday.
+
+6. LEAVE APPLICATION PROCEDURE
+   6.1  All applications via Form GRM-LV-01 or the online HR portal.
+   6.2  Emergency leave: Notify supervisor by phone/SMS immediately; submit form next working day.
+   6.3  Unapproved absence for > 3 consecutive days may be treated as voluntary abandonment.
+   6.4  Leave status queries: hr.garment@company.com | Ext. 205
+
+================================================================================
+  CONFIDENTIAL. HR Dept, Garment Division. Doc No. GRM-LV-001 v2.5 (2024)
+================================================================================

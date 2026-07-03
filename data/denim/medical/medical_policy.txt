@@ -1,0 +1,47 @@
+================================================================================
+  DENIM DEPARTMENT — MEDICAL & HEALTH POLICY
+  Document No.: DNM-MED-001 | Version: 2.3 | Effective: January 1, 2024
+================================================================================
+
+1. ENHANCED MEDICAL COVERAGE (Chemical Exposure Risk)
+   Coverage limit per employee: PKR 200,000/year (vs standard PKR 150,000)
+   Dependents: Spouse PKR 100,000 | Each child (max 2): PKR 60,000
+   Chemical-exposure illnesses: NO sub-limit (fully covered)
+   Cancer screening (annual, high-risk roles): Fully covered
+
+2. QUARTERLY HEALTH MONITORING — MANDATORY
+   All chemical-handling staff must attend quarterly health monitoring.
+   Tests included:
+     (a) Lung function test (spirometry)
+     (b) Skin allergy screening (patch test)
+     (c) Complete blood count (CBC)
+     (d) Liver function tests (LFTs)
+     (e) Vision and hearing assessment
+   Employees with abnormal results are automatically reassigned pending specialist review.
+
+3. CHEMICAL EMERGENCY PROTOCOL
+   3.1  In case of chemical splash to skin or eyes:
+        STEP 1: Flush affected area with running water for minimum 15 minutes.
+        STEP 2: Proceed immediately to First Aid Room (Ext. 501).
+        STEP 3: Notify supervisor and complete Exposure Report within 2 hours (Form DNM-EHS-01).
+        STEP 4: Medical follow-up appointment mandatory within 24 hours.
+   3.2  All chemical exposures are logged in the Exposure Registry maintained by EHS.
+   3.3  Repeat exposures trigger mandatory workstation risk assessment.
+
+4. EMERGENCY CONTACTS — DENIM MEDICAL & EHS
+   ┌──────────────────────────────┬──────────────────┬───────────────┐
+   │ Service                      │ Number           │ Available     │
+   ├──────────────────────────────┼──────────────────┼───────────────┤
+   │ First Aid Room               │ Ext. 501         │ 24 / 7        │
+   │ EHS Officer (Chemical)       │ +92-21-3456-7021 │ 07:00 – 00:00 │
+   │ EHS Officer (Emergency)      │ +92-333-9876543  │ 24 / 7        │
+   │ Company Ambulance            │ +92-21-3456-7999 │ 24 / 7        │
+   │ Occupational Health Doctor   │ Ext. 502         │ 08:00 – 17:00 │
+   │ Dermatology Panel — JPMC     │ 021-9921-5740    │ Office hours  │
+   │ Pulmonology — AKU Hospital   │ 021-3486-4527    │ Office hours  │
+   │ Edhi Ambulance               │ 115              │ 24 / 7        │
+   └──────────────────────────────┴──────────────────┴───────────────┘
+
+================================================================================
+  CONFIDENTIAL. HR Dept, Denim Division. Doc No. DNM-MED-001 v2.3 (2024)
+================================================================================
