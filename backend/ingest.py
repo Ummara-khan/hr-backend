@@ -12,7 +12,15 @@ from dotenv import load_dotenv
 
 THIS_DIR     = Path(__file__).parent.resolve()
 DEFAULT_DATA = (THIS_DIR.parent / "data").resolve()
-load_dotenv(THIS_DIR / ".env")
+load_dotenv()
+
+print("=" * 50)
+print("Environment Check")
+print("GROQ_API_KEY exists:", "GROQ_API_KEY" in os.environ)
+print("GROQ_API_KEY length:", len(os.getenv("GROQ_API_KEY", "")))
+print("PINECONE_API_KEY exists:", "PINECONE_API_KEY" in os.environ)
+print("PINECONE_API_KEY length:", len(os.getenv("PINECONE_API_KEY", "")))
+print("=" * 50)
 
 # ── Fix SSL cert verification on corporate networks ────────────────────────
 os.environ.setdefault("CURL_CA_BUNDLE", "")
