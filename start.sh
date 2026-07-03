@@ -1,66 +1,41 @@
 #!/bin/bash
-# start.sh - Launch both backend and frontend
 
 set -e
 
 echo "========================================"
-echo "  Company Policy Chatbot - Startup"
+echo "  Company Policy Chatbot - Backend"
 echo "========================================"
 
-# Check for .env file
-if [ ! -f backend/.env ]; then
+# Load .env if it exists (for local development)
+if [ -f backend/.env ]; then
+    echo "📄 Loading backend/.env..."
+    export $(grep -v '^#' backend/.env | xargs)
+else
+    echo "ℹ️ No backend/.env found. Using environment variables from the hosting platform."
+fi
+
+# Check that GROQ_API_KEY exists
+if [ -z "$GROQ_API_KEY" ]; then
     echo ""
-    echo "⚠️  Missing backend/.env file!"
-    echo "   Run: cp backend/.env.example backend/.env"
-    echo "   Then add your GROQ_API_KEY to the .env file."
-    echo "   Get a free key at: https://console.groq.com"
-    echo ""
+    echo "❌ GROQ_API_KEY is not set!"
+    echo "Add it as an environment variable in your hosting platform."
     exit 1
 fi
 
-# Backend
-echo ""
-echo "📦 Starting backend..."
+echo "✅ GROQ_API_KEY found."
+
 cd backend
 
+# Create virtual environment if needed
 if [ ! -d "venv" ]; then
-    echo "   Creating virtual environment..."
     python3 -m venv venv
 fi
 
 source venv/bin/activate
-pip install -r requirements.txt -q
 
-# Start backend in background
-uvicorn main:app --host 0.0.0.0 --port 8000 --reload &
-BACKEND_PID=$!
-echo "   ✅ Backend started (PID $BACKEND_PID) → http://localhost:8000"
-
-cd ..
-
-# Frontend
-echo ""
-echo "🎨 Starting frontend..."
-cd frontend
-
-if [ ! -d "node_modules" ]; then
-    echo "   Installing npm packages..."
-    npm install
-fi
-
-npm start &
-FRONTEND_PID=$!
-echo "   ✅ Frontend started (PID $FRONTEND_PID) → http://localhost:3000"
+pip install -r requirements.txt
 
 echo ""
-echo "========================================"
-echo "  ✅ All services running!"
-echo "  Frontend: http://localhost:3000"
-echo "  Backend:  http://localhost:8000"
-echo "  API Docs: http://localhost:8000/docs"
-echo "  Press Ctrl+C to stop all services"
-echo "========================================"
+echo "🚀 Starting FastAPI..."
 
-# Wait and handle shutdown
-trap "kill $BACKEND_PID $FRONTEND_PID 2>/dev/null; echo 'Stopped.'" EXIT
-wait
+exec uvicorn main:app --host 0.0.0.0 --port ${PORT:-8000}
