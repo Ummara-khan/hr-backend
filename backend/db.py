@@ -10,7 +10,14 @@ from typing import List, Optional, Dict
 from dotenv import load_dotenv
 
 THIS_DIR = Path(__file__).parent.resolve()
-load_dotenv(THIS_DIR / ".env")
+load_dotenv()
+print("=" * 50)
+print("Environment Check")
+print("GROQ_API_KEY exists:", "GROQ_API_KEY" in os.environ)
+print("GROQ_API_KEY length:", len(os.getenv("GROQ_API_KEY", "")))
+print("PINECONE_API_KEY exists:", "PINECONE_API_KEY" in os.environ)
+print("PINECONE_API_KEY length:", len(os.getenv("PINECONE_API_KEY", "")))
+print("=" * 50)
 
 PINECONE_API_KEY = "pcsk_33d4g5_Bq89VQAaeUVMv7HLj41NRU8fkvuJSxJnUStYiuVv42BEkJvNvgQhwsvkxt68vjq"
 PINECONE_HOST    = "https://hrpolicy-chatbot-3tzsh4r.svc.aped-4627-b74a.pinecone.io"
